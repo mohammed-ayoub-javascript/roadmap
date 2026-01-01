@@ -1,8 +1,8 @@
-# 📚 مسار تطوير الويب الكامل باستخدام JavaScript
+# 📚 FullStack-Web developer 2026 + AI
 
 مسار تطوير الويب
 
-مسار تعليمي متكامل لتطوير الويب من الصفر إلى الاحتراف باستخدام تقنيات JavaScript الحديثة.
+مسار تعليمي متكامل لتطوير الويب من الصفر إلى الاحتراف باستخدام تقنيات JavaScript الحديثة و لغة go.
 
 ## جدول المحتويات
 - [المقدمة](#المقدمة)
@@ -11,6 +11,7 @@
 - [جافاسكريبت وبيئة التشغيل](#جافاسكريبت-وبيئة-التشغيل)
 - [التقنيات المتقدمة](#التقنيات-المتقدمة)
 - [المشاريع العملية](#المشاريع-العملية)
+- [go](#go)
 - [المسار التعليمي](#المسار-التعليمي)
 - [المساهمة](#المساهمة)
 
@@ -22,17 +23,18 @@
 3. تطوير الواجهات الخلفية (Node.js, قواعد البيانات)
 4. التقنيات الحديثة (React, Next.js, TypeScript)
 5. مشاريع عملية حقيقية
+6. لغة Go وهندسة النظم
 
-الاساسيات
-https://www.youtube.com/playlist?list=PL3X--QIIK-OHgMV2yBz3GLfM5d_5BxOSj
-https://www.youtube.com/playlist?list=PL3X--QIIK-OEUIwbQU79V76RHelBUQKiz
-https://www.youtube.com/playlist?list=PL3X--QIIK-OFIRbOHbOXbcfSAvw198lUy
-https://www.youtube.com/playlist?list=PLDoPjvoNmBAyX4CCOP--TR36SfD5g7gru
-https://www.youtube.com/playlist?list=PLDoPjvoNmBAwgefuRqj8OB5ioMT1eC_EZ
-https://www.youtube.com/playlist?list=PLmhb7ed0Oj8lhufhp-p6HjFWLCpR-Xita
-https://www.youtube.com/playlist?list=PLnrGSSGEsAJki5rBM7PZY9W464EunKf2K
-https://www.youtube.com/playlist?list=PL8DDsWuvM_EWYUvtpxALB0Xx7L_f_phXm
-https://www.youtube.com/playlist?list=PL88kafUXXgBaAgb0h3-ZMvzxb5J2qFrut
+الاساسيات البرمجة التي لا غنى عنها
+- [اساسيات مهمة لكل مبرمج](https://www.youtube.com/playlist?list=PL3X--QIIK-OHgMV2yBz3GLfM5d_5BxOSj)
+- [سلسلة الخوارزميات وحل المشاكل](https://www.youtube.com/playlist?list=PL3X--QIIK-OEUIwbQU79V76RHelBUQKiz)
+ -[مقدمة في البرمجة بلغة C++](https://www.youtube.com/playlist?list=PL3X--QIIK-OFIRbOHbOXbcfSAvw198lUy)
+- [Problems Solving With C++ Level One](https://www.youtube.com/playlist?list=PLDoPjvoNmBAyX4CCOP--TR36SfD5g7gru)
+- [Problems Solving With C++ Level Two](https://www.youtube.com/playlist?list=PLDoPjvoNmBAwgefuRqj8OB5ioMT1eC_EZ)
+-[ سلسلة حل المشاكل مسائل من موقع CodeForces , لغة ++C](https://www.youtube.com/playlist?list=PLmhb7ed0Oj8lhufhp-p6HjFWLCpR-Xita)
+- [مشاريع برمجة ++C للمبتدئين](https://www.youtube.com/playlist?list=PLnrGSSGEsAJki5rBM7PZY9W464EunKf2K)
+- [Object Oriented OOP](https://www.youtube.com/playlist?list=PL8DDsWuvM_EWYUvtpxALB0Xx7L_f_phXm)
+-[ Algorithms and Data Structures](https://www.youtube.com/playlist?list=PL88kafUXXgBaAgb0h3-ZMvzxb5J2qFrut)
 ## تطوير الويب الأساسي
 ### 🌐 لغات الويب الأساسية
 HTML CSS
@@ -97,36 +99,17 @@ React Ecosystem
 | **Duolingo Clone** | بناء نسخة من دولينجو باستخدام التقنيات الحديثة | [الدورة](https://youtu.be/dP75Khfy4s4) |
 
 ## المسار التعليمي
-```mermaid
-graph TD
-    A[أساسيات البرمجة] --> B[HTML & CSS]
-    B --> C[JavaScript]
-    C --> D[Node.js]
-    D --> E[React]
-    E --> F[Next.js]
-    F --> G[TypeScript]
-    G --> H[قواعد البيانات]
-    H --> I[مشاريع متقدمة]
-    
-    style A fill:#4FD1C5,stroke:#319795
-    style B fill:#4299E1,stroke:#3182CE
-    style C fill:#ED64A6,stroke:#D53F8C
-    style D fill:#9F7AEA,stroke:#805AD5
-    style E fill:#ED8936,stroke:#DD6B20
-    style F fill:#48BB78,stroke:#38A169
-    style G fill:#ECC94B,stroke:#D69E2E
-    style H fill:#0BC5EA,stroke:#00A3C4
-    style I fill:#F56565,stroke:#E53E3E
-```
+# go 
 
-## المساهمة
-المساهمات مرحّب بها! لاقتراح تحسينات أو إضافة موارد:
-1. انسخ المشروع (Fork)
-2. أنشئ فرعاً جديداً 
-3. أضف تعديلاتك
-4. ارفع التغييرات 
-5. افتح طلب دمج (Pull Request)
+- [اساسيات go](https://youtu.be/YS4e4q9oBaU)
+-[ مشاريع بسيطة بgo](https://youtu.be/jFfo23yIWac)
+- [PostgreSQL](https://youtu.be/qw--VYLpxG4)
+- [Docker and Kubernetes ](https://youtu.be/PrusdhS2lmo)
+- [System Design](https://youtu.be/m8Icp_Cid5o)
+- [Microservices Architecture](https://www.youtube.com/playlist?list=PLgAqrVq84PDdfiDow3YVsgc1q34JD415Z)
+- [GenAI](https://youtu.be/nJ25yl34Uqw)
+
 ---
 
 **تم إنشاء هذا المسار التعليمي بحب ❤️ لمساعدة المطورين العرب**  
-*آخر تحديث: أغسطس 2025*
+*آخر تحديث: جانفي 2026*
