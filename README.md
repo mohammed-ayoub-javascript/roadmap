@@ -111,5 +111,60 @@ React Ecosystem
 
 ---
 
+```mermaid
+graph TD
+    %% Define Styles
+    classDef primary fill:#2563eb,color:#fff,stroke:#1e40af,stroke-width:2px;
+    classDef secondary fill:#7c3aed,color:#fff,stroke:#5b21b6,stroke-width:2px;
+    classDef highlight fill:#059669,color:#fff,stroke:#065f46,stroke-width:2px;
+    classDef system fill:#dc2626,color:#fff,stroke:#991b1b,stroke-width:2px;
+
+    %% Level 1: Foundations
+    subgraph Foundation [المرحلة الأولى: التأسيس البرمجي]
+        A[أساسيات البرمجة بلغة C++] --> B[حل المشكلات Problem Solving]
+        B --> C[البرمجة كائنية التوجه OOP]
+        C --> D[هياكل البيانات والخوارزميات DSA]
+    end
+
+    %% Level 2: Frontend & JavaScript
+    subgraph Frontend [المرحلة الثانية: تطوير الويب والجافاسكريبت]
+        D --> E[HTML5 / CSS3]
+        E --> F[JavaScript ES6+]
+        F --> G[TypeScript]
+        G --> H[React.js & Tailwind CSS]
+        H --> I[Next.js Framework]
+    end
+
+    %% Level 3: Advanced JS & Backend
+    subgraph AdvancedJS [المرحلة الثالثة: التقنيات المتقدمة]
+        I --> J[Node.js / Bun]
+        J --> K[ORM: Prisma / Drizzle]
+        K --> L[NextAuth & Security]
+    end
+
+    %% Level 4: Systems & Go
+    subgraph Systems [المرحلة الرابعة: هندسة الأنظمة ولغة Go]
+        L --> M[لغة Go - الأساسيات والمشاريع]
+        M --> N[قواعد البيانات PostgreSQL]
+        N --> O[Docker & Kubernetes]
+    end
+
+    %% Level 5: Architecture & AI
+    subgraph Professional [المرحلة الخامسة: الاحتراف والذكاء الاصطناعي]
+        O --> P[System Design]
+        P --> Q[Microservices Architecture]
+        Q --> R[Generative AI Implementation]
+    end
+
+    %% Final Goal
+    R --> Final((Senior FullStack Engineer))
+
+    %% Apply Classes
+    class Foundation primary;
+    class Frontend secondary;
+    class AdvancedJS highlight;
+    class Systems system;
+    class Professional highlight;
+```
 **تم إنشاء هذا المسار التعليمي بحب ❤️ لمساعدة المطورين العرب**  
 *آخر تحديث: جانفي 2026*
